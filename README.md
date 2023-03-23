@@ -5,9 +5,11 @@ Hello, I am presenting my PWA (Progressive Web Applications) that is referred to
 
 ## Installation
 
-Reproduce my repository on my Github. The link is below.
+Reproduce my repository on my Github. The link is below, followed by my deployed version.
 
 [TheEditor repository](https://github.com/Jwarren619/TheEditor-19).
+
+
 
 To install my application's `dependencies` and `devDependencies`, please run:
   ```
@@ -18,6 +20,7 @@ To install my application's `dependencies` and `devDependencies`, please run:
   ```
   npm run start
   ```
+
 
 ## Visual
 
@@ -45,4 +48,9 @@ I am Jeremiah and I am the author. I would love to acknowledge my instrutor Ian 
 
 <br>
 
-README is maintained by [Jeremiah Warren](https://github.com/Jwarren619) , followed by the [TheEditor-19](http://localhost:8080/) and hosted on [GitHub](https://github.com/Jwarren619/TheEditor-19).
+ For questions please contact: 
+  - Jeremiah Warren 
+  - Email: Jjeremiahwarren@yahoo.com
+  - GitHub Username: Jwarren619
+  - GitHub Profile: https://github.com/Jwarren619
+  

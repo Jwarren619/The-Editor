@@ -17,6 +17,7 @@ To install my application's `dependencies` and `devDependencies`, please run:
   To implore the application, please run:
   ```
   npm run start
+  ```
 
 ## Visual
 

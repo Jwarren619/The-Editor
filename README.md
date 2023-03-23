@@ -40,7 +40,7 @@ The following image I have here will show the application's IndexedDB storage:
 
 
 ##  Authors and Acknowledgment
-I am Jeremiah and I am the author. I would love to acknowledge my instrutor Ian and my tutor Mazin for helping me complete this amazing application. I have learned so much by fully understaand what has been taught to be throughout the past two weeks with this assignment.
+I am Jeremiah and I am the author. I would love to acknowledge my instrutor Ian and my tutor Mazin for helping me complete this amazing application. I have learned so much by fully understand what has been taught to be throughout the past two weeks with this assignment.
 
 
 <br>

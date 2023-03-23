@@ -11,15 +11,15 @@ This video will show how the application functions:
 
 The following image I have here will show the application's manifest.json file: 
 
-![Screenshot1](Client/src/images/ScreenShot1.png)
+![Screenshot1](ScreenShot1.png)
 
 The following image I have here will show the application's registered service worker:
 
-![Screenshot2](Client/src/images/ScreenShot2.png)
+![Screenshot2](.//client/src/images/ScreenShot2.png)
 
 The following image I have here will show the application's IndexedDB storage:
 
-![Screenshot3](Client/src/images/ScreenShot3.png)
+![Screenshot3](.//client/src/images/ScreenShot3.png)
 
 
 
